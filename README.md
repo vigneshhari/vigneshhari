@@ -1,6 +1,3 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vigneshhari&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+Hi, I'm Vignesh
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vigneshhari.vigneshhari)
-
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/VigneshH)
- -->
+I've been working for the past few years to create free open source software that can radically improve society, I am strong believer in community built software and would love to work on projects that can bring even the slightest positive impact in people. To learn more about my projects visit my [website](vigneshhari.dev)
